@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "386_memory_board")(type "KiCad")(uri "${KIPRJMOD}/386_memory_board_simm.pretty")(options "")(descr ""))
+)
