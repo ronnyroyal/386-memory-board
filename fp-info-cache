@@ -1,4 +1,4 @@
-5186310704309
+10380659019537
 386_memory_board
 BUS_386_MEMORY
 386 Memory Bus Edge Connector
@@ -13,6 +13,27 @@ DOUBLE-SIMM-30
 0
 60
 60
+386_memory_board
+i386_compatible
+
+
+0
+0
+0
+386_memory_board
+i386_compatible_30mm
+
+
+0
+0
+0
+386_memory_board
+i386_logo
+
+
+0
+0
+0
 386_memory_board
 r_pack_3216
 
