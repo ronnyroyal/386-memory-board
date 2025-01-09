@@ -7,3 +7,12 @@ It is designed to be easily modified to 8MB with minimal PCB changes once the mi
 ![photo](./images/original.jpg)
 
 ![photo](./images/new.png)
+
+# Initial Revision
+The initial PSB revision has been tested and confirmed working
+Some minor issues have been noted and will be fixed if i make another revision
+
+![photo](./images/board.png)
+
+# Assembly Notes:
+the optimal order for assembly is capacitors, resistor arrays, chips and the simm's at last
