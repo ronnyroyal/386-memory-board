@@ -22,6 +22,7 @@ It was designed to test my clone of the 2MB card and for modding it to 8MB.
 # Second Revision
 This adds the missing traces and jumpers required for 2/8MB operation and the slot cutout i excluded from rev.1.  
 
+![photo](./images/rev2.png)
 
 # Important!
 An 8MB card configured to 2MB on the mainboard will start up fine and even pass an extended CheckIt memory test but running programs that use the memory of the card crash.  
